@@ -1,0 +1,15 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    background-color: #713f12;
+    color: #fbbf24;
+}
